@@ -1,6 +1,6 @@
 # Tic Tac Toe Project
 
-Web-based editor designed for creating game levels with predefined assets.
+A classic two-player game focusing on aligning three symbols in a row on a 3x3 grid.
 
 ![Tic Tac Toe Project preview image](./project-preview.png)
 
